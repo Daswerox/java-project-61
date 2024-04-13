@@ -9,5 +9,4 @@ public class Cli {
         String userName = stringScanner.next();
         System.out.println("Hello, " + userName + "!");
     }
-
 }
